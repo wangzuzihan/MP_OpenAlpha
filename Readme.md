@@ -3,7 +3,7 @@ OpenAlpha是一个开源的行研平台，我们寻找有独特视角的投资�
 ## Contents
 - [移动互联网/云]()
   - [视频、直屏短视频]()
-  - [三维AR]()
+  - [三维AR](https://miracleplus.feishu.cn/minutes/obcn3q5fb84cbg14hg981819?from=auth_notice)
   - [芯片、感知（激光雷达）]()
   - [云原生设施：K8s、FaaS、WASM]()
   - [数据栈（湖、仓库、数据网格-经纬）]()
