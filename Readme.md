@@ -50,13 +50,14 @@ OpenAlpha是一个开源的行研平台，我们寻找有独特视角的投资�
 
 ## 移动互联网/云
   - [视频、直屏短视频]()
-  - [三维AR]()
+  - [XR](https://github.com/wangzuzihan/XR)
   - [芯片、感知（激光雷达）]()
   - [云原生设施：K8s、FaaS、WASM]()
   - [数据栈（湖、仓库、数据网格-经纬）]()
   - [多维度覆盖网络]()
   - [芯片（ARM64、RISC- V、DPU）]()
   - [通讯400G/800G]()
+  - [Data Mesh](https://github.com/wangzuzihan/DataMesh)
   
 ## 人工智能
 
