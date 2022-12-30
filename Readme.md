@@ -39,7 +39,9 @@ OpenAlpha是一个开源的行研平台，我们寻找有独特视角的投资�
   - [基于脑神经的模型计算平台]()
   - [生物材料、芯片设计]()
 - [量子]()
-  -[专用量子]((https://github.com/wangzuzihan/Quantum-Computation/blob/main/README.md)
+  - [专用量子计算](https://github.com/wangzuzihan/Quantum-Computation/blob/main/README.md)
+  - [量子技术]
+  - [相关的年度总结]
 - [新能源](#新能源)
 - [新生命](#新生命)
 - [新材料](#新材料)
